@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 10px 20px;
+  }
+  
+  .trial-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .trial-info button {
+    margin-left: 10px;
+  }
+  
+  .profile-pic img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  

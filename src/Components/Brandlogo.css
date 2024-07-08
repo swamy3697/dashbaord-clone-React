@@ -1,0 +1,17 @@
+.logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo-image {
+    width: 40px; /* Adjust the size as needed */
+    height: auto;
+  }
+  
+  .logo-text {
+    margin-left: 10px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #000; /* Adjust the color as needed */
+  }
+  
