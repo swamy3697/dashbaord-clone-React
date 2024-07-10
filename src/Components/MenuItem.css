@@ -14,11 +14,11 @@
   }
   
   .menu-item:hover {
-    background-color: #3d4a7c;
+    background-color: #4c4f575e;
     border-radius: 5px;
   }
   .menu-item.active {
-    background-color: #c3d3e2;
+    background-color: #353840;
     font-weight: bold;
   }
   

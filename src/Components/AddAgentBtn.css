@@ -2,27 +2,22 @@
     width: 80%;
     margin: 5px;
     padding: 5px;
-    border: 1px solid #233167;
-    border-radius: 10px;
+    margin-top: 10px;
+    border: 1px;
+    border-radius: 5px;
     display: flex;
     justify-content: baseline;
     gap: 10px;
     align-items: center;
     padding-left: 20px;
-    background-color: #3d4a7c;
+    background-color: #353840;
     height: 30px;
     font-size: 20px;
     cursor: pointer;
     color: white;
   }
 
-  .btn_container_add:hover{
-    background-color: #307fad;
-    color: white;
-    border: none;
-   
 
-  }
   
   .btn_full_width {
     width: 100%;

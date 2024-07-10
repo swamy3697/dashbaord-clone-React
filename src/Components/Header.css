@@ -15,11 +15,15 @@
   }
   
   .profile-pic img {
-    background-color: #61add2;
+    background-color: white;
     width: 30px;
     height: 30px;
     border-radius: 50%;
   }
   h1{
     color:white;
+  }
+  .loginbtn{
+    color:white;
+    font-size: 15px;
   }

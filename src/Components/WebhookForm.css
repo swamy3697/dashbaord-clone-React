@@ -33,11 +33,13 @@
     height: 30px;
     padding: 10px;
     font-size: 15px;
-    border: 1px solid #e3e3e3;
+    border: 1px solid #7f8081;
     border-radius: 5px;
     margin-bottom: 10px;
+    background-color: #1f2124;
     outline: none;
     border-radius: 10px;
+    color: white;
 
   }
   
@@ -49,7 +51,7 @@
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    background: #c3d3e2;
+    background: #353840;
     color: #fff;
     cursor: not-allowed;
     display: flex;

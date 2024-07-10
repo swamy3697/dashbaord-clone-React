@@ -8,7 +8,7 @@ function Header() {
     <div className="header">
           <Brandlogo />
       <div className="profile-pic">
-        <img src={person} alt="Profile" />
+        <span className='loginbtn'>Sign Up</span>
       </div>
     </div>
   );
