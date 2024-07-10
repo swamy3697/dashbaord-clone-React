@@ -2,22 +2,25 @@
     width: 80%;
     margin: 5px;
     padding: 5px;
-    border: 1px solid rgb(196, 192, 192);
+    border: 1px solid #233167;
     border-radius: 10px;
     display: flex;
     justify-content: baseline;
     gap: 10px;
     align-items: center;
     padding-left: 20px;
-    background-color: rgb(255, 255, 255);
+    background-color: #3d4a7c;
     height: 30px;
     font-size: 20px;
     cursor: pointer;
+    color: white;
   }
 
   .btn_container_add:hover{
-    background-color: rgb(241, 235, 235);
-    color: rgba(0, 0, 0, 0.773);
+    background-color: #307fad;
+    color: white;
+    border: none;
+   
 
   }
   

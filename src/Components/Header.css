@@ -2,7 +2,6 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-
     padding: 10px 20px;
   }
   
@@ -16,8 +15,11 @@
   }
   
   .profile-pic img {
+    background-color: #61add2;
     width: 30px;
     height: 30px;
     border-radius: 50%;
   }
-  
+  h1{
+    color:white;
+  }

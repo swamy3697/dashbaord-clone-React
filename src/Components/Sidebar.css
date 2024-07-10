@@ -3,6 +3,7 @@
   flex-direction: column;
   width: 250px;
   padding: 20px;
+  color: white;
 }
 
 .api-docs {

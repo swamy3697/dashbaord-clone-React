@@ -1,7 +1,8 @@
 .ApiKeys_contianer{
-    background-color: rgb(255, 255, 255);
+  background-color: #9494b4;
     width: 100%;
     height: 100%;
+    color: white;
     display: flex;
     flex-direction: column;
     justify-content: start;
@@ -23,11 +24,11 @@ p{
 }
   
   .text-foreground {
-    color: #333; /* Example text color */
+    color:white /* Example text color */
   }
   
   .text-muted-foreground {
-    color: #888; /* Example muted text color */
+    color: rgb(219, 217, 212); /* Example muted text color */
   }
   
   .bg-card {
@@ -43,7 +44,7 @@ p{
   }
   
   input::placeholder {
-    color: #ccc; /* Example placeholder color */
+    color: #9494b4; /* Example placeholder color */
   }
   
   button img {

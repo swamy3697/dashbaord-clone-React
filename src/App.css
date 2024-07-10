@@ -3,7 +3,7 @@
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-color:#f5efeffa;
+  background-color:#233167;
 }
 
 .App-logo {
@@ -12,7 +12,7 @@
 }
 
 .main-content{
-  background-color: #f5efeffa;
+  background-color: #233167;
   width: 100%;
   height: 100%;
 }
@@ -31,7 +31,7 @@
   width: 100%;
   margin: 15px;
 
-  background-color: #ffffff;
+  background-color:#233167;
   border-radius: 10px;
 
 }

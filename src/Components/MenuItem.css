@@ -14,11 +14,11 @@
   }
   
   .menu-item:hover {
-    background-color: #4fa0573e;
+    background-color: #3d4a7c;
     border-radius: 5px;
   }
   .menu-item.active {
-    background-color: #70c15981;
+    background-color: #c3d3e2;
     font-weight: bold;
   }
   
@@ -28,7 +28,7 @@
     margin-right: 10px;
   }
   h3{
-    color: rgb(75, 74, 74);
+    color:white;
     margin: 0;
     padding: 0;
     font-size: 13px;

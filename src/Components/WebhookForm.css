@@ -12,6 +12,9 @@
     border-radius: 20px;
 
   }
+  p{
+    color: white;
+  }
   
   .webhook-form-container h3 {
     margin-top: 0;
@@ -22,7 +25,7 @@
   }
   
   .webhook-form-container a {
-    color: #0000ee;
+    color: #3d4a7c;
   }
   
   .webhook-input {
@@ -39,14 +42,14 @@
   }
   
   .webhook-input.active {
-    outline: 2px solid #d3ff00;
+    outline: 2px solid #3d4a7c;
   }
   
   .webhook-button {
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    background: #e3e3e3;
+    background: #c3d3e2;
     color: #fff;
     cursor: not-allowed;
     display: flex;
@@ -54,7 +57,7 @@
   }
   
   .webhook-button.active {
-    background: #d3ff00;
+    background: #3d4a7c;
     cursor: pointer;
   }
   
